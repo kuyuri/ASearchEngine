@@ -13,11 +13,107 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src/main/resource"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/aspectjrt-1.6.11.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/aspectjtools-1.6.11.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/avro-1.5.3.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/avro-ipc-1.5.3.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-daemon-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-logging-api-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-math-2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-net-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/commons-net-3.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/core-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/guava-r09.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/hadoop-ant-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/hadoop-capacity-scheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/hadoop-client-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/hadoop-examples-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/hadoop-fairscheduler-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/hadoop-minicluster-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/hadoop-test-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/hadoop-thriftfs-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/hadoop-tools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/hbase-0.94.0.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/hbase-0.94.0-tests.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/high-scale-lib-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/hsqldb-1.8.0.10.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/httpcore-4.1.3.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jackson-core-asl-1.5.5.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jackson-jaxrs-1.5.5.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jackson-mapper-asl-1.5.5.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jackson-xc-1.5.5.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jamon-runtime-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jasper-compiler-5.5.12.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jasper-compiler-5.5.23.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jasper-runtime-5.5.12.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jasper-runtime-5.5.23.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jaxb-impl-2.1.12.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jdeb-0.8.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jersey-core-1.4.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jersey-core-1.8.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jersey-json-1.4.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jersey-json-1.8.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jersey-server-1.4.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jersey-server-1.8.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jets3t-0.6.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jettison-1.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jetty-6.1.26.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jetty-util-6.1.26.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jruby-complete-1.6.5.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jsch-0.1.42.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jsp-2.1-6.1.14.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/jsp-api-2.1-6.1.14.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/junit-4.5.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/kfs-0.2.2.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/libthrift-0.8.0.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/mockito-all-1.8.5.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/netty-3.2.4.Final.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/protobuf-java-2.4.0a.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/servlet-api-2.5-6.1.14.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/servlet-api-2.5-20081211.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/snappy-java-1.0.3.2.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/velocity-1.7.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/xmlenc-0.52.jar"/>
+	<classpathentry kind="lib" path="/opt/ASearchEngine/lib/zookeeper-3.4.3.jar"/>
+	<classpathentry kind="lib" path="conf"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
